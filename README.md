@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YellowCall!
-- 👀 I’m interested in C...
-- 🌱 I’m currently learning CSS
-- 📫 How to reach me: everignite@outlook.com
+- 👀 I’m interested in java
+- 🌱 I’m currently learning C
 
 <!---
 YellowCall/YellowCall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
